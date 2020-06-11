@@ -22,7 +22,7 @@
   <build>
     <plugins>
       <plugin>
-        <!-- Build an executable JARssssssasdsadFromJenkinsServer for Triggers FOR SonarQUBE FOr chethan -->
+        <!-- Build an executable JARssssssasdsadFromJenkinsServer for Triggers FOR SonarQUBE -->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
         <version>3.0.2</version>
